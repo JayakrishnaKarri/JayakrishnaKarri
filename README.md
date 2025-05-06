@@ -4,7 +4,7 @@ First of all, thanks for visiting my profile. Here, what you should know about m
 
 👋 Hi, I'm Jayakrishna!
 
-🔭 I’m currently working in Wipro
+🔭 I’m currently working in Wipro as Software Engineer.
 
 🔧 Self-driven and passionate coder with a love for solving problems and writing efficient code.
 
