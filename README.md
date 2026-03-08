@@ -77,14 +77,6 @@ Java • Spring Boot • Kafka • Spring Security • Docker • MySQL • Spri
 
 ---
 
-## 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JayakrishnaKarri\&show_icons=true\&theme=default)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JayakrishnaKarri\&layout=compact)
-
----
-
 ## 📫 Connect With Me
 
 * GitHub: https://github.com/JayakrishnaKarri
