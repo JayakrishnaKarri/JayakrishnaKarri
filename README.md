@@ -1,63 +1,96 @@
-<!-- Animated Header -->
+<!-- PROFILE HEADER -->
 
 <h1 align="center">Hi 👋, I'm Jaya Krishna</h1>
-<h3 align="center">Java Backend Engineer | Spring Boot | Microservices | Kafka</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=36BCF7&center=true&vCenter=true&width=600&lines=Backend+Engineer+%7C+Java+%26+Spring+Boot;Building+Scalable+Distributed+Systems;Microservices+%7C+Kafka+%7C+Cloud;Exploring+AI+in+Backend+Platforms" />
+Java Backend Engineer • Spring Boot • Microservices • Kafka
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=36BCF7&center=true&vCenter=true&width=600&lines=Java+Backend+Engineer;Building+Scalable+Distributed+Systems;Microservices+%7C+Kafka+%7C+Cloud;Exploring+AI+in+Backend+Platforms" />
 </p>
 
 ---
 
 ## 🚀 About Me
 
-Backend-focused developer passionate about building **scalable distributed systems** using **Java and Spring Boot**.
+Backend-focused developer passionate about building **scalable distributed systems** using **Java and the Spring ecosystem**.
 
-I enjoy designing backend platforms that prioritize **reliability, security, and performance**, and I like working with technologies that power modern production systems such as **microservices architecture, event-driven systems, and distributed messaging**.
+I enjoy designing backend platforms that prioritize **reliability, security, and performance**, and I like working with technologies that power modern production systems such as **microservices architectures, event-driven systems, and distributed messaging pipelines**.
 
-* Backend developer specializing in **Java & Spring Boot**
-* Interested in **distributed systems & microservices**
-* Building production-style backend projects using **Apache Kafka**
-* Exploring **AI-powered backend tools using Spring AI**
-* Passionate about designing **secure and scalable APIs**
+**Areas of Interest**
+
+* Backend engineering with **Java & Spring Boot**
+* **Microservices and distributed system architecture**
+* **Event-driven systems using Apache Kafka**
+* Designing **secure and scalable REST APIs**
+* Exploring **AI-powered backend tooling with Spring AI**
 
 ---
 
 ## 🧰 Tech Stack
 
-### 💻 Languages
+### Languages
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=java\&logoColor=white)
+<p>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+</p>
 
-### ⚙️ Backend
+---
 
-![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge\&logo=springboot\&logoColor=white)
-![Spring Security](https://img.shields.io/badge/SpringSecurity-6DB33F?style=for-the-badge\&logo=springsecurity\&logoColor=white)
-![Spring Data JPA](https://img.shields.io/badge/SpringDataJPA-6DB33F?style=for-the-badge\&logo=spring\&logoColor=white)
+### Backend Frameworks
 
-### 🏗 Architecture
+<p>
+<img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
+<img src="https://img.shields.io/badge/SpringSecurity-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white"/>
+<img src="https://img.shields.io/badge/SpringDataJPA-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
+</p>
 
-![Microservices](https://img.shields.io/badge/Microservices-Architecture-blue?style=for-the-badge)
-![Event Driven](https://img.shields.io/badge/EventDriven-Architecture-orange?style=for-the-badge)
+---
 
-### 📡 Messaging
+### Architecture
 
-![Kafka](https://img.shields.io/badge/ApacheKafka-000000?style=for-the-badge\&logo=apachekafka)
+<p>
+<img src="https://img.shields.io/badge/Microservices-Architecture-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/EventDriven-Architecture-orange?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Distributed-Systems-purple?style=for-the-badge"/>
+</p>
 
-### 🗄 Database
+---
 
-![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge\&logo=mysql\&logoColor=white)
+### Messaging & Streaming
 
-### 🛠 DevOps & Tools
+<p>
+<img src="https://img.shields.io/badge/ApacheKafka-000000?style=for-the-badge&logo=apachekafka"/>
+</p>
 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge\&logo=apachemaven)
+---
+
+### Databases
+
+<p>
+<img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white"/>
+</p>
+
+---
+
+### DevOps & Tools
+
+<p>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven"/>
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+</p>
+
+---
 
 ### 🌱 Currently Exploring
 
-![Spring AI](https://img.shields.io/badge/SpringAI-AI%20Integration-green?style=for-the-badge)
-![Observability](https://img.shields.io/badge/Observability-Distributed%20Systems-blue?style=for-the-badge)
+<p>
+<img src="https://img.shields.io/badge/SpringAI-AI%20Integration-green?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Observability-Distributed%20Systems-blue?style=for-the-badge"/>
+</p>
 
 ---
 
@@ -65,17 +98,17 @@ I enjoy designing backend platforms that prioritize **reliability, security, and
 
 ### 🛒 E-Commerce Order Management Platform
 
-Event-driven **microservices backend platform** built using **Java, Spring Boot, Apache Kafka, and Spring Security**.
+A **production-style event-driven microservices backend** built using **Java, Spring Boot, Apache Kafka, and Spring Security**.
 
-#### Key Features
+**Key Features**
 
-* Microservices architecture
-* Kafka-based event-driven communication
-* JWT authentication and role-based access control
-* Dead Letter Queue (DLQ) handling for fault tolerance
-* AI-powered observability using Spring AI
+* Microservices-based architecture
+* Asynchronous workflows using **Kafka event streaming**
+* Secure APIs using **JWT authentication and RBAC**
+* Fault tolerance using **Kafka retries and Dead Letter Queues**
+* AI-powered operational insights using **Spring AI**
 
-#### Tech Stack
+**Technology Stack**
 
 Java • Spring Boot • Kafka • Spring Security • Docker • MySQL • Spring AI
 
@@ -83,12 +116,16 @@ Java • Spring Boot • Kafka • Spring Security • Docker • MySQL • Spri
 
 ## 📫 Connect With Me
 
-🔗 GitHub
-https://github.com/JayakrishnaKarri
+<p>
+<a href="https://github.com/JayakrishnaKarri">
+<img src="https://img.shields.io/badge/GitHub-JayaKrishnaKarri-black?style=for-the-badge&logo=github"/>
+</a>
 
-💼 LinkedIn
-https://www.linkedin.com/in/karri-jayakrishna/
+<a href="https://www.linkedin.com/in/karri-jayakrishna/">
+<img src="https://img.shields.io/badge/LinkedIn-Karri%20Jayakrishna-blue?style=for-the-badge&logo=linkedin"/>
+</a>
+</p>
 
 ---
 
-⭐ Always interested in learning new backend technologies and building **scalable distributed systems**.
+⭐ Always interested in building **scalable backend systems**, learning **modern distributed system design**, and exploring **AI-driven backend platforms**.
