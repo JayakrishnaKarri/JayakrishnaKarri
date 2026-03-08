@@ -15,11 +15,11 @@ Backend-focused developer passionate about building **scalable distributed syste
 
 I enjoy designing backend platforms that prioritize **reliability, security, and performance**, and I like working with technologies that power modern production systems such as **microservices architecture, event-driven systems, and distributed messaging**.
 
-* 🔹 Backend developer specializing in **Java & Spring Boot**
-* 🔹 Interested in **distributed systems & microservices**
-* 🔹 Building production-style backend projects using **Apache Kafka**
-* 🔹 Exploring **AI-powered backend tools using Spring AI**
-* 🔹 Passionate about designing **secure and scalable APIs**
+* Backend developer specializing in **Java & Spring Boot**
+* Interested in **distributed systems & microservices**
+* Building production-style backend projects using **Apache Kafka**
+* Exploring **AI-powered backend tools using Spring AI**
+* Passionate about designing **secure and scalable APIs**
 
 ---
 
